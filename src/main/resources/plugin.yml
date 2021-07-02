@@ -1,0 +1,7 @@
+name: ${project.name}
+main: tk.cmplx.dummy.Main
+version: ${project.version}
+commands:
+   dummycommand:
+      description: Dummy.
+      usage: /dummycommand
